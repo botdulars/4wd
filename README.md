@@ -1,4 +1,4 @@
-# 4wd, 4 wheel version 
+# 4wd, 4 wheel version, Arduino Nano based Robotics kit 
 
 Botdulars Robotic kit  - Pin details 
 
