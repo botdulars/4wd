@@ -4,13 +4,9 @@ Botdulars Robotic kit  - Pin details
 --------------------------------------------------------------------
 
 LCD  - ( 2, A1, A2, A3, A4, A5 ) - (RS, EN, D4, D5, D6, D7)
-
 LED  -  D4
-
 SWITCH  - D10
-
 BUZZER - D7
-
 LDR  - A7
 POTENTIOMETER (VARIABLE RESITOR) - A6
 DISTANCE SENSOR
